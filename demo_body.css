@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+
+}
+/* phan footer */
+.footer{
+   background-color: #009CD7;
+   width: 3150px;
+
+   
+   
+}
+.footer h1{
+    margin-left: -1600px;
+    color: cornsilk;
+    font-family: tahoma;
+   text-align: center;
+   line-height: 50px;
+}
+.footer .video{
+   margin-left: -400px;
+    display: flex;
+    justify-content: center;
+    box-shadow: #008b8b00 2px 2px;
+  
+}
+#footer{
+    margin-left: 300px;
+    text-align: center;
+   float: right;
+ font-size: 40px;
+ color: honeydew;
+ font-family: tahoma;
+
+}
+#footer li{
+    list-style: none;
+}
+/* het phan footer */
+
+/* phan hieu ung hover */
