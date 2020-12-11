@@ -1,3 +1,3 @@
 # landingpage
 <p>GIAO DIỆN WEB</P>
-<img src="./css/long.png/>
+<img src="./css/long.png"/>
